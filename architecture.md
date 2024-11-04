@@ -1,5 +1,7 @@
 # Data Architecture on Azure
 
+When choosing an architecture, it's important to optimise for technical features such as scalability, high availability, disaster recovery, cost efficiency, performance optimisation, observability, and security and governance. It should also align with business requirements, enabling self-service capabilities and data democratisation to empower data-driven decision-making. Additionally, it should also consider the skill sets of the end users and the in-house expertise available to support the architecture.
+
 This repository provides an overview of a data architecture solution built on Azure, utilising multiple Azure services for data ingestion, processing, storage, analytics, machine learning, and monitoring. Each Azure tool is selected to fulfill a specific role in the architecture based on its specialised capabilities and role as a best-practice solution in Azure's ecosystem.
 
 ---
