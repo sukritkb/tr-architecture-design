@@ -114,6 +114,9 @@ All of the tools chosen are the go-to solutions in Azure for their respective us
 ### High Level Architecture Diagram
 ![High Level Architecture Diagram](./drawio/high_level_architecture_design.png "High Level Architecture Diagram")
 
+### Data Flow Diagram
+![Data Flow Diagram](./drawio/dataflow.png "Batch Data Flow Diagram")
+
 ### Sample Data Ingestion Pipeline
 
 Let’s consider an example of a source-aligned data application. In this context, ***"source-aligned"*** refers to applications where the data originates from an external source rather than being stored in the data lake. On the other hand, ***"curated data applications"*** takes a dataset already in the data lake—whether from another source-aligned product or a curated data product—and transform it into a new dataset. 
